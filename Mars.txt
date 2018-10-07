@@ -1,0 +1,9 @@
+Cold and dry, but everything is my favorite...red
+
+<<<<<<< HEAD
+The two moons may be a problem for Wolfman, but Mummy will appreciate the
+lack of humidity
+
+But earth is pretty sweet
+=======
+>>>>>>> parent of da5cc17... Update Mars.txt
